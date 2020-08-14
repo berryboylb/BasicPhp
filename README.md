@@ -10,4 +10,6 @@
 
 
   Tools: Xamp and any text editor of your choice
-   Enjoy using this me thumbs up and rate me and it's alwyas open for contributors.
+  
+  
+   Enjoy using this me a thumbs up and rate me and it's alwyas open for contributors.
