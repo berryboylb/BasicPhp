@@ -1,12 +1,12 @@
 ��#BasicPhp
 
-1)These are basic php code snippets for those that want to learn php but doesn't want to read the documentation nor watch videos.
+1) These are basic php code snippets for those that want to learn php but doesn't want to read the documentation nor watch videos.
 
 
-2)it is well commented to explain what it entails and can be used anywhere.
+2) it is well commented to explain what it entails and can be used anywhere.
 
 
-3)Always clone the repo to see what's new.
+3) Always clone the repo to see what's new.
 
 
   Tools: Xamp and any text editor of your choice
